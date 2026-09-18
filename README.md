@@ -2,6 +2,10 @@
 
 An AI-powered document processing assistant designed to interpret IRS and state tax notices, extract key financial and legal information, and automatically generate structured Excel summaries and professional response letters.
 
+### Live Demo
+
+[![Try in ChatGPT](https://img.shields.io/badge/Try%20in-ChatGPT-000000?logo=openai)](https://chatgpt.com/g/g-681d917a12c481919b01e79e4f293857-tax-notice-assistant)
+
 ## Project Overview
 
 Tax notices often contain important information such as payment deadlines, penalties, tax periods, account identifiers, and balances across multiple pages of legal and financial language.
